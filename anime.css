@@ -1,0 +1,137 @@
+body,
+html {
+  background-color: black;
+}
+
+#title_icon {
+  /* font-size: 900px; */
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
+  /* font: outline; */
+  /* font-variant: inherit; */
+  /* font-display: auto; */
+  justify-content: center;
+  margin-top: 30px;
+  margin-left: 2px;
+}
+
+.input {
+  display: flex;
+  border-radius: 10px;
+}
+
+#btn1.button {
+  justify-content: center;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.container {
+  justify-content: center;
+}
+
+#anime {
+  color: white;
+}
+
+/* cards section */
+
+#titl {
+  font-size: 30px;
+  /* font-weight: bolder; */
+  color: whitesmoke;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+#cont1 {
+  font-size: 25px;
+  color: wheat;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#cont2 {
+  font-size: 20px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#cont3 {
+  font-size: 20px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#cont4 {
+  font-size: 20px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#cont5 {
+  font-size: 20px;
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+#url2 {
+  font-size: 24px;
+}
+
+.epis {
+  color: white;
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+#imh {
+  border-radius: 15px;
+}
+
+#welcome {
+  margin: auto;
+  width: 50%;
+  border: 2px groove blue;
+  padding: 2px;
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+
+#pvd {
+  color: white;
+  font-size: 23px;
+  border: 2px groove blue;
+  padding: 30px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  /* background-color: white; */
+  color: white;
+  bottom: 0;
+}
+
+footer p {
+  font-size: 20px;
+  font-style: italic;
+  font-weight: bolder;
+  bottom: 0;
+}
+
+#git_icon {
+  display: flex;
+  justify-content: center;
+  color: white;
+  margin: auto;
+  padding: 10px;
+  font-size: 40px;
+  bottom: 0;
+}
